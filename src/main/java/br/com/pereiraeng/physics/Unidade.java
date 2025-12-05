@@ -9,6 +9,7 @@ import java.util.Collections;
 import java.util.HashSet;
 
 import br.com.pereiraeng.core.StringUtils;
+import br.com.pereiraeng.math.Multiplicador;
 
 /**
  * Classe dos objetos que representam uma unidade de medida de uma grandeza

@@ -20,8 +20,6 @@ import br.com.pereiraeng.math.Multiplicador;
  */
 public class Unidade implements Comparable<Unidade> {
 
-	
-
 	private final Grandeza grandeza;
 	private final double value;
 	private final String[] symbols;
